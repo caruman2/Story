@@ -1,0 +1,4 @@
+done to check that, you can confirm that you have set the email address correctly in Git:
+
+$ git config --global user.email
+email@example.com
